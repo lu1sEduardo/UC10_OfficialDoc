@@ -16,6 +16,6 @@
 
 ## References
 
-[GitCommand](GitCommands.md)
+[GitCommands](GitCommands.md)
 
 [PythonCode](PythonCode.md)

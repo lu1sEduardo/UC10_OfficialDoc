@@ -45,5 +45,7 @@ Este comando é utilizado para remmover a configuração global do nome do usuá
 Este comando é utilizado para remmover a configuração global do email do usuário no Git.
 
 `git pull`
-Este comando é utilizado para buscar e incorporar alterações de um repositório remoto para o seu repositório local. Especificamente realizando duas operações, o git fetch e o git merge.
+Este comando é utilizado para buscar e incorporar alterações de um repositório remoto para o seu repositório local. Especificamente realizando duas operações, o Git Fetch e o Git Merge.
 
+* O Git Fetch busca as alterações do repositório remoto, mas não as incorpora ao seu branch local. Essa operação é útil para visualizar as mudanças antes de mesclá-las em seu branch.
+* O Git Merge incorpora as alterações do branch remoto ao seu branch local. Se houver conflitos, você precisará resolvê-los durante este passo.

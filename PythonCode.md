@@ -4,7 +4,7 @@
 
 Este código Python feito em aula utiliza a biblioteca ´pandas´ para realizar algumas operações em um conjunto de dados tabular.
 
-´import pandas as pd´
+`import pandas as pd`
 Esta parte do código faz a importação da biblioteca pandas e a renomeia como 'pd'.
 
 ´df = pd.read_excel("base_notas.xlsx")´

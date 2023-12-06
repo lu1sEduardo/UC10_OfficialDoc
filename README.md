@@ -19,3 +19,5 @@
 [GitCommands](GitCommands.md)
 
 [PythonCode](PythonCode.md)
+
+[GitHubLicenses](Licenses.md)
